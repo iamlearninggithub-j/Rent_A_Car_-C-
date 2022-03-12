@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\Hafiz\source\repos\Twenty-eighth_Project_(C++)\FileHelper.h(31,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hafiz\source\repos\Twenty-eighth_Project_(C++)\FileHelper.h(66,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hafiz\source\repos\Twenty-eighth_Project_(C++)\FileHelper.h(112,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hafiz\source\repos\Twenty-eighth_Project_(C++)\FileHelper.h(150,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hafiz\source\repos\Twenty-eighth_Project_(C++)\Functions.h(86,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hafiz\source\repos\Twenty-eighth_Project_(C++)\Functions.h(97,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hafiz\source\repos\Twenty-eighth_Project_(C++)\Functions.h(106,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hafiz\source\repos\Twenty-eighth_Project_(C++)\Functions.h(115,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hafiz\source\repos\Twenty-eighth_Project_(C++)\Functions.h(127,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hafiz\source\repos\Twenty-eighth_Project_(C++)\Start.h(159,14): warning C4129: ' ': unrecognized character escape sequence
+  Twenty-eighth_Project_(C++).vcxproj -> C:\Users\Hafiz\source\repos\Twenty-eighth_Project_(C++)\Debug\Twenty-eighth_Project_(C++).exe
